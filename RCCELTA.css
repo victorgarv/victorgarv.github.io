@@ -29,7 +29,7 @@ a{
     text-align: justify;
 }
 .years{
-  color: rgb(197, 118, 0);
+  color:rgb(192 154 78);
   font-size: 20px;
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
@@ -37,7 +37,7 @@ a{
     text-align: center;
     font-size: 40px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: rgb(197, 118, 0);
+    color:rgb(192 154 78);
     
     
     
@@ -54,3 +54,4 @@ footer{
     text-align: center;
     background-color:#4ebeff ;
 }
+
