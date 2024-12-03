@@ -1,0 +1,88 @@
+body{
+    background-color: #6CACE4;
+}
+h1{
+    text-align: center;
+    
+}
+.afouteza{
+    text-align: center;
+    font-family: "Covered By Your Grace";
+    font-size: 2.3em;
+    color: rgb(213 0 50)
+}
+ol{
+    padding: 0%;
+}
+li{
+    display: inline-block;
+    width: 23%;
+    height: 100%;
+    padding: 13px;
+    background-color: #00304d;
+    color: rgb(255, 252, 252);
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    list-style: none;
+    
+    
+}  
+li:hover{
+    background-color: rgb(192 154 78);
+    color: white;
+}  
+a{
+    text-decoration: none;
+    color: white;
+}
+.historia{
+    background-color:rgb(168, 223, 255);
+    text-align: justify;
+}
+.years{
+  color:rgb(192 154 78);
+  font-size: 20px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.his{
+    text-align: center;
+    font-size: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(192 154 78);
+    
+    
+    
+}
+.videohis{
+    text-align: center;
+}
+.videohistoria{
+    padding: 10px;
+    color: rgb(213 0 50);
+    font-size: 1.8em;
+    font-family: "Covered By Your Grace";
+
+    
+
+}
+p{
+    font-size: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+.titulo{
+    text-align: center;
+    
+}
+footer{
+    text-align: center;
+    background-color:#00304d ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.copy{
+    color: rgb(192 154 78);
+    margin-top: 50px;
+    font-size: 1.2em;
+}
+
