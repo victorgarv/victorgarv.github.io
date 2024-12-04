@@ -1,20 +1,24 @@
-body{
+body {
     background-color: #6CACE4;
 }
-h1{
+
+h1 {
     text-align: center;
-    
+
 }
-.afouteza{
+
+.afouteza {
     text-align: center;
     font-family: "Covered By Your Grace";
     font-size: 2.3em;
     color: rgb(213 0 50)
 }
-ol{
+
+ol {
     padding: 0%;
 }
-li{
+
+li {
     display: inline-block;
     width: 23%;
     height: 100%;
@@ -25,64 +29,74 @@ li{
     font-weight: bold;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     list-style: none;
-    
-    
-}  
-li:hover{
+
+
+}
+
+li:hover {
     background-color: rgb(192 154 78);
     color: white;
-}  
-a{
+}
+
+a {
     text-decoration: none;
     color: white;
 }
-.historia{
-    background-color:rgb(168, 223, 255);
+
+.historia {
+    background-color: rgb(168, 223, 255);
     text-align: justify;
 }
-.years{
-  color:rgb(192 154 78);
-  font-size: 20px;
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+.years {
+    color: rgb(192 154 78);
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-.his{
+
+.his {
     text-align: center;
     font-size: 40px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color:rgb(192 154 78);
-    
-    
-    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(192 154 78);
+
+
+
 }
-.videohis{
+
+.videohis {
     text-align: center;
 }
-.videohistoria{
+
+.videohistoria {
     padding: 10px;
     color: rgb(213 0 50);
     font-size: 1.8em;
     font-family: "Covered By Your Grace";
 
-    
+
 
 }
-p{
+
+p {
     font-size: 15px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.titulo{
+
+.titulo {
     text-align: center;
-    
+
 }
-footer{
+
+footer {
     text-align: center;
-    background-color:#00304d ;
+    background-color: #00304d;
     padding-top: 20px;
     padding-bottom: 20px;
 }
-.copy{
+
+.copy {
     color: rgb(192 154 78);
     margin-top: 50px;
     font-size: 1.2em;
 }
-
