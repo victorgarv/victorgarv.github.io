@@ -18,11 +18,12 @@ ol {
     padding: 0%;
 }
 
-li {
+header ol>li {
+    box-sizing: border-box;
     display: inline-block;
-    width: 23%;
+    width: 25%;
     height: 100%;
-    padding: 13px;
+    padding: 15px;
     background-color: #00304d;
     color: rgb(255, 252, 252);
     text-align: center;
@@ -33,7 +34,7 @@ li {
 
 }
 
-li:hover {
+header ol>li:hover {
     background-color: rgb(192 154 78);
     color: white;
 }
@@ -44,12 +45,14 @@ a {
 }
 
 .historia {
-    background-color: rgb(168, 223, 255);
+    background-color: #6CACE4;
     text-align: justify;
+    
 }
 
 .years {
-    color: rgb(192 154 78);
+    color: rgb(213 0 50);
+    text-align: center;
     font-size: 20px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
@@ -58,7 +61,7 @@ a {
     text-align: center;
     font-size: 40px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: rgb(192 154 78);
+    color: rgb(213 0 50);
 
 
 
@@ -91,10 +94,26 @@ p {
 footer {
     text-align: center;
     background-color: #00304d;
-    padding-top: 20px;
+    padding-top: 25px;
     padding-bottom: 20px;
 }
-
+footer ol>li {
+    box-sizing: border-box;
+    display: inline-block;
+    width: 24%;
+    height: 100%;
+    padding: 15px;
+    background-color: #00304d;
+    color: rgb(255, 252, 252);
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    list-style: none;
+}
+footer ol>li:hover {
+    background-color: rgb(192 154 78);
+    color: white;
+}
 .copy {
     color: rgb(192 154 78);
     margin-top: 50px;
